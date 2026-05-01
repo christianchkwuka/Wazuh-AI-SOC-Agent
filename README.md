@@ -1,0 +1,1 @@
+This project demonstrates a simple Python-based AI/SOC agent that reads Wazuh SIEM alerts, classifies security events based on severity and keywords, and generates incident reports for SOC and GRC documentation.
