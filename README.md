@@ -92,7 +92,7 @@ evidence/       → CSV Audit Logs
 docs/           → Documentation  
 screenshots/    → Proof of Implementation  
 ```
-
+![SOC Agent](docs/screenshots/soc-agent-execution.png)
 ---
 
 ## 🎯 Ziel / Objective
