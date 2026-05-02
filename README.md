@@ -80,6 +80,9 @@ The goal is to automatically detect, analyze, and document security incidents in
 * MITRE ATT&CK Mapping
 * Generierung von Incident Reports
 * Export von Audit-Evidence (CSV)
+
+* ![SOC Agent](docs/screenshots/soc-agent-execution.png)
+---
 ## 📊 Wazuh SIEM Detection
 
 ![Wazuh Alerts](docs/screenshots/wazuh-detection-alerts.png)
@@ -96,8 +99,7 @@ evidence/       → CSV Audit Logs
 docs/           → Documentation  
 screenshots/    → Proof of Implementation  
 ```
-![SOC Agent](docs/screenshots/soc-agent-execution.png)
----
+
 
 ## 🎯 Ziel / Objective
 
