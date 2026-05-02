@@ -80,7 +80,11 @@ The goal is to automatically detect, analyze, and document security incidents in
 * MITRE ATT&CK Mapping
 * Generierung von Incident Reports
 * Export von Audit-Evidence (CSV)
+## 📊 Wazuh SIEM Detection
 
+![Wazuh Alerts](docs/screenshots/wazuh-detection-alerts.png)
+
+*Wazuh detecting security events based on rule severity (rule.level ≥ 5).*
 ---
 
 ## 📁 Projektstruktur / Project Structure
